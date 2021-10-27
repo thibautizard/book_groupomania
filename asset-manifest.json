@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/groupomania/static/css/main.9b802bc7.chunk.css",
+    "main.js": "/groupomania/static/js/main.a19b0630.chunk.js",
+    "main.js.map": "/groupomania/static/js/main.a19b0630.chunk.js.map",
+    "runtime-main.js": "/groupomania/static/js/runtime-main.0ecebf0c.js",
+    "runtime-main.js.map": "/groupomania/static/js/runtime-main.0ecebf0c.js.map",
+    "static/js/2.ef2901ff.chunk.js": "/groupomania/static/js/2.ef2901ff.chunk.js",
+    "static/js/2.ef2901ff.chunk.js.map": "/groupomania/static/js/2.ef2901ff.chunk.js.map",
+    "static/js/3.52816c89.chunk.js": "/groupomania/static/js/3.52816c89.chunk.js",
+    "static/js/3.52816c89.chunk.js.map": "/groupomania/static/js/3.52816c89.chunk.js.map",
+    "index.html": "/groupomania/index.html",
+    "static/css/main.9b802bc7.chunk.css.map": "/groupomania/static/css/main.9b802bc7.chunk.css.map",
+    "static/js/2.ef2901ff.chunk.js.LICENSE.txt": "/groupomania/static/js/2.ef2901ff.chunk.js.LICENSE.txt",
+    "static/media/groupomania-brand.e6dc3d26.png": "/groupomania/static/media/groupomania-brand.e6dc3d26.png",
+    "static/media/icon-above-font.6c50863d.png": "/groupomania/static/media/icon-above-font.6c50863d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ecebf0c.js",
+    "static/js/2.ef2901ff.chunk.js",
+    "static/css/main.9b802bc7.chunk.css",
+    "static/js/main.a19b0630.chunk.js"
+  ]
+}
