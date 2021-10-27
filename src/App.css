@@ -1,0 +1,71 @@
+html, body {
+  background: rgb(245, 245, 245);
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin:0;
+}
+
+html  {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.container {
+  margin: 110px auto 0 auto;
+  max-width: 1200px;
+}
+
+.nav-container {
+  margin:auto;
+}
+
+.nav-container svg {
+  color:white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.MuiAppBar-colorPrimary, .MuiButton-containedPrimary {
+  background-color: rgb(15, 31, 65) !important;
+}
+
+.MuiTypography-colorPrimary, .MuiSvgIcon-colorPrimary, .MuiButton-textPrimary {
+  color: rgb(15, 31, 65) !important;
+}
+
+.MuiButton-containedSecondary {
+  background-color: rgb(194, 89, 93) !important;
+}
+
+.Mui-focused {
+  color: rgb(15, 31, 65) !important;
+  border-color: rgb(15, 31, 65) !important;
+}
+
+.Mui-focused .Mui-focused.MuiInput-underline::after {
+  border-color: rgb(15, 31, 65) !important;
+}
+
+.MuiInput-underline:after, .Mui-error.Mui-focused:after {
+  border-color: rgb(15, 31, 65) !important;
+
+}
+
+.Mui-error:not(.Mui-focused) input {
+  color:red;
+}
+
+.Mui-error:after {
+  border-color: red !important;
+}
+
+.MuiButtonBase-root {
+  margin: 7px !important;
+  padding: 10px !important;
+}
+
+.MuiCircularProgress-colorPrimary {
+  color: rgb(15, 31, 65) !important;
+}
