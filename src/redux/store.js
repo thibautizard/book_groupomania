@@ -19,10 +19,10 @@ const store = createStore(
   reducers,
   initialState,
   compose(
-    applyMiddleware(...middleware),
+    applyMiddleware(...middleware)
 
     // ! Line to remove
-    window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+    // window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
   )
 );
 

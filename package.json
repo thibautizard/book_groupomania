@@ -2,6 +2,7 @@
   "name": "groupomania",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://thibautizard.github.io/book_groupomania",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -10,6 +11,7 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
     "babel": "^8.0",
+    "caniuse-lite": "^1.0.30001271",
     "dayjs": "^1.10.4",
     "jwt-decode": "^3.1.2",
     "prop-types": "^15.7.2",
@@ -27,7 +29,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
