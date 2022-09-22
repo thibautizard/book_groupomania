@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/book_groupomania/static/css/main.552da104.chunk.css",
-    "main.js": "/book_groupomania/static/js/main.61ee5af4.chunk.js",
-    "main.js.map": "/book_groupomania/static/js/main.61ee5af4.chunk.js.map",
-    "runtime-main.js": "/book_groupomania/static/js/runtime-main.c8de7ebc.js",
-    "runtime-main.js.map": "/book_groupomania/static/js/runtime-main.c8de7ebc.js.map",
-    "static/js/2.ef2901ff.chunk.js": "/book_groupomania/static/js/2.ef2901ff.chunk.js",
-    "static/js/2.ef2901ff.chunk.js.map": "/book_groupomania/static/js/2.ef2901ff.chunk.js.map",
-    "static/js/3.52816c89.chunk.js": "/book_groupomania/static/js/3.52816c89.chunk.js",
-    "static/js/3.52816c89.chunk.js.map": "/book_groupomania/static/js/3.52816c89.chunk.js.map",
+    "main.js": "/book_groupomania/static/js/main.bd0562ee.chunk.js",
+    "main.js.map": "/book_groupomania/static/js/main.bd0562ee.chunk.js.map",
+    "runtime-main.js": "/book_groupomania/static/js/runtime-main.5de30f8a.js",
+    "runtime-main.js.map": "/book_groupomania/static/js/runtime-main.5de30f8a.js.map",
+    "static/js/2.cc5802af.chunk.js": "/book_groupomania/static/js/2.cc5802af.chunk.js",
+    "static/js/2.cc5802af.chunk.js.map": "/book_groupomania/static/js/2.cc5802af.chunk.js.map",
+    "static/js/3.f02fcd79.chunk.js": "/book_groupomania/static/js/3.f02fcd79.chunk.js",
+    "static/js/3.f02fcd79.chunk.js.map": "/book_groupomania/static/js/3.f02fcd79.chunk.js.map",
     "index.html": "/book_groupomania/index.html",
     "static/css/main.552da104.chunk.css.map": "/book_groupomania/static/css/main.552da104.chunk.css.map",
-    "static/js/2.ef2901ff.chunk.js.LICENSE.txt": "/book_groupomania/static/js/2.ef2901ff.chunk.js.LICENSE.txt",
+    "static/js/2.cc5802af.chunk.js.LICENSE.txt": "/book_groupomania/static/js/2.cc5802af.chunk.js.LICENSE.txt",
     "static/media/groupomania-brand.e6dc3d26.png": "/book_groupomania/static/media/groupomania-brand.e6dc3d26.png",
     "static/media/icon-above-font.6c50863d.png": "/book_groupomania/static/media/icon-above-font.6c50863d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8de7ebc.js",
-    "static/js/2.ef2901ff.chunk.js",
+    "static/js/runtime-main.5de30f8a.js",
+    "static/js/2.cc5802af.chunk.js",
     "static/css/main.552da104.chunk.css",
-    "static/js/main.61ee5af4.chunk.js"
+    "static/js/main.bd0562ee.chunk.js"
   ]
 }

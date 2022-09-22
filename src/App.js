@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import './App.css';
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider'
-import createMuiTheme from '@material-ui/core/styles/createMuiTheme'
+import { createTheme } from "@material-ui/core/styles";
 import themeFile from './util/theme'
 import jwtDecode from 'jwt-decode'
 import axios from 'axios'
@@ -27,7 +27,7 @@ import User from './pages/user'
 import PostDialog from './components/post/PostDialog';
 
 
-const theme = createMuiTheme(themeFile)
+const theme = createTheme(themeFile);
 
 const token = localStorage.getItem("FBIdtoken") ? localStorage.getItem("FBIdtoken").split(" ")[1] : undefined;
 
